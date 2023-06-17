@@ -6,15 +6,13 @@ of the Linux OS. Have experience in working in remote team as well as communicat
 customers.
 
 "Better to ask and be a fool once than never to ask and be a fool 4ever"
-
+ 
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
 <img src="https://github-profile-trophy.vercel.app/?username=iniandrew" alt="iniandrew" />
 </a>
 </p>
 <p>
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="Django" height="40" width="40" />
-</a>
 <a href="https://laravel.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" height="40" width="40" />
 </a>
